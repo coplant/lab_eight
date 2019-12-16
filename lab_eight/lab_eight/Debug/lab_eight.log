@@ -1,0 +1,8 @@
+﻿  free.cpp
+  lab_eight.cpp
+  print.cpp
+  read.cpp
+  sort.cpp
+  Создание кода...
+C:\Users\Ivan\source\repos\lab_eight\lab_eight\sort.cpp(41): warning C4715: needToSwap: значение возвращается не при всех путях выполнения
+  lab_eight.vcxproj -> C:\Users\Ivan\source\repos\lab_eight\Debug\lab_eight.exe
